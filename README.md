@@ -6,13 +6,19 @@
 
 ## [Demo](http://orangex_c.coding.me/vue-coverflow/) | [案例](http://orangex_c.coding.me/vue-coverflow/)
 
+### Preview
+
+![](screenshot/coverflow.gif)
+
 ### Install
 
 ```bash
 npm install vue-coverflow --save
 # or
 yarn add vue-coverflow
+
 ```
+
 
 ### Use
 
